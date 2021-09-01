@@ -13,8 +13,5 @@ ROC Curve and roc auc score.
 The final accuracy was 100%.
 *******
 
-If any query Mail me on:-
-sudhanshuthakur8137@gmail.com
-
 THANK YOU :)
 
